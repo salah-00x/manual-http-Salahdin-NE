@@ -1,0 +1,13 @@
+# gitignore sirve para indicar a git que ficheros debe de NO hacer seguimiento
+
+#variables de entorno
+.env
+
+#Archivos del sistema
+
+#Dependencias
+node_modules/
+
+#Carpetas build
+dist/
+build/

@@ -80,7 +80,6 @@ manual-http-[nombre-iniciales-apellidos]/
 - Usar **ESM (ES Modules)** en lugar de CommonJS  
 - Añadir los siguientes scripts:  
 
-```json
 "scripts": {
   "server:up": "json-server --watch src/db/db.json --port 4000",
   "crud:curl": "node src/crud-curl.js",
@@ -337,3 +336,4 @@ Escala:
 
 ❔ ¿Puedo modificar el db.json?
 👉 Sí, puedes añadir estudiantes, pero no eliminar los 7 iniciales.
+

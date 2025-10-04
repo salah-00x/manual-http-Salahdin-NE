@@ -57,9 +57,7 @@ manual-http-[nombre-iniciales-apellidos]/
 ├── checklist.md                 # Control de progreso
 └── package.json
 
-
-
-
+```
 ---
 
 ## 🎬 Parte 1: Configuración inicial del proyecto  
@@ -341,6 +339,7 @@ Escala:
 
 ❔ ¿Puedo modificar el db.json?
 👉 Sí, puedes añadir estudiantes, pero no eliminar los 7 iniciales.
+
 
 
 

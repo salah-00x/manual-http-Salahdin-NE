@@ -38,6 +38,9 @@ Documentarás todas las operaciones CRUD (Create, Read, Update, Delete) usando t
 
 ## 📁 Estructura del proyecto requerida  
 
+# Estructura del proyecto requerida
+
+```bash
 manual-http-[nombre-iniciales-apellidos]/
 ├── src/
 │   ├── db/
@@ -53,6 +56,7 @@ manual-http-[nombre-iniciales-apellidos]/
 ├── README.md                    # Documentación completa
 ├── checklist.md                 # Control de progreso
 └── package.json
+
 
 
 
@@ -337,5 +341,6 @@ Escala:
 
 ❔ ¿Puedo modificar el db.json?
 👉 Sí, puedes añadir estudiantes, pero no eliminar los 7 iniciales.
+
 
 

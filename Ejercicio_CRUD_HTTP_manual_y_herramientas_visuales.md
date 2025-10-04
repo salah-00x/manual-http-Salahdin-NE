@@ -39,20 +39,21 @@ Documentarás todas las operaciones CRUD (Create, Read, Update, Delete) usando t
 ## 📁 Estructura del proyecto requerida  
 
 manual-http-[nombre-iniciales-apellidos]/
-├── 📂 src/
-│ ├── 📂 db/
-│ │ └── 📄 db.json # Base de datos json-server
-│ └── 📄 crud-curl.js # Script con funciones CRUD
-├── 📂 scripts/
-│ └── 📄 validate.sh # Script de validación bash
-├── 📂 images/ # Capturas Thunder Client
-├── 📄 peticiones-crud.http # Peticiones REST Client
-├── 🔐 .env # Variables de entorno (NO versionar)
-├── 📋 .env.example # Template de variables
-├── 🚫 .gitignore
-├── 📖 README.md # Documentación completa
-├── ✅ checklist.md # Control de progreso
-└── 📦 package.json
+├── src/
+│   ├── db/
+│   │   └── db.json              # Base de datos json-server
+│   └── crud-curl.js             # Script con funciones CRUD
+├── scripts/
+│   └── validate.sh              # Script de validación bash
+├── images/                      # Capturas Thunder Client
+├── peticiones-crud.http         # Peticiones REST Client
+├── .env                         # Variables de entorno (NO versionar)
+├── .env.example                 # Template de variables
+├── .gitignore
+├── README.md                    # Documentación completa
+├── checklist.md                 # Control de progreso
+└── package.json
+
 
 
 ---
@@ -336,4 +337,5 @@ Escala:
 
 ❔ ¿Puedo modificar el db.json?
 👉 Sí, puedes añadir estudiantes, pero no eliminar los 7 iniciales.
+
 

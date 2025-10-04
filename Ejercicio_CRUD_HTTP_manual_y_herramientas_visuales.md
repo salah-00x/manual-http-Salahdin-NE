@@ -1,3 +1,4 @@
+```bash
 # Desarrollo Web en entorno Cliente - 2º DAW DAW - IES HLanz  
 **Profesor: Isaías FL**  
 
@@ -40,7 +41,6 @@ Documentarás todas las operaciones CRUD (Create, Read, Update, Delete) usando t
 
 # Estructura del proyecto requerida
 
-```bash
 manual-http-[nombre-iniciales-apellidos]/
 ├── src/
 │   ├── db/
@@ -57,7 +57,6 @@ manual-http-[nombre-iniciales-apellidos]/
 ├── checklist.md                 # Control de progreso
 └── package.json
 
-```
 ---
 
 ## 🎬 Parte 1: Configuración inicial del proyecto  
